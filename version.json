@@ -1,6 +1,5 @@
 {
-  "version": "0.1.0",
-  "url": "https://github.com/ciyeer/CampVideo-Releases/releases/download/v0.1.0/VideoRecorder-Setup-0.1.0.exe",
-  "mirror": "https://hub.gitmirror.com/https://github.com/ciyeer/CampVideo-Releases/releases/download/v0.1.0/VideoRecorder-Setup-0.1.0.exe",
-  "notes": "首个发布版本"
+  "version": "0.1.2",
+  "url": "https://github.com/ciyeer/CampVideo-Releases/releases/download/v0.1.2/VideoRecorder-Setup-0.1.2.exe",
+  "notes": "v0.1.2 更新内容:\n- 在线更新功能 (jsDelivr版本检查 + WinINet下载)\n- 修复摄像头设备枚举 bug (部分设备漏检)\n- 修复录屏后修改存储路径崩溃 (COM 线程模型冲突)\n- 摄像头窗口支持等比缩放 (16:9 锁比)\n- 每日自动检查更新开关\n- NSIS 安装器图标\n- CMessageBox 背景色调整"
 }
